@@ -1,0 +1,26 @@
+.cropclass{
+    display: flex;
+}
+
+.formclass{
+    max-width: 500px;
+    margin-left: auto;
+    padding: 80px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   
+}
+  
+.info{
+    max-width: 300px;
+    margin-right:auto;
+    margin-left: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+

@@ -1,0 +1,17 @@
+Applicaiton/server/.venv
+Applicaiton/server/__pycache__/
+Applicaiton/server/Save_Model_Price
+Applicaiton/server/Save_Model
+
+
+
+
+# --Trained Model
+Trained Model/.ipynb_checkpoints
+Trained Model/Price_Predication/Save_Model_Price
+Trained Model/Crop_Classification/Save_Model
+
+Trained Model/Crop_Classification/IMP
+Trained Model/Crop_Classification/.ipynb_checkpoints
+Trained Model/Price_Predication/.ipynb_checkpoints
+

@@ -1,0 +1,8 @@
+body{
+    background-image: url('../image/image1.jpg');
+    background-size: 100vw 120vh;
+}
+
+.App{
+    margin-top: 100px;
+}
